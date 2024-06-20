@@ -2,4 +2,4 @@
 
 > ### Introduction
 > 
-> **AWeSome Web Maker** is a collaborative project from AWS Cloud School Bootcamp. It is a shell script, which automates the process of building and  hosting a 3-tier web server on AWS.
+> **AWeSome Web Maker** is a collaborative project from AWS Cloud School Bootcamp. It is a shell script, which automates the process of building and hosting a 3-tier web server on AWS.
